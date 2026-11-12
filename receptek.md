@@ -1,2 +1,4 @@
 # kedvenc receptek
-- palacsinta: lekváros és kakós
+- palacsinta: lekváros, kakaós, mogyórkrémes, sós-túrós és hortobágyi
+- Madártej (extra vaníliával)
+- Gulyásleves
